@@ -11,7 +11,5 @@ Process flow:
 --> LLM formats the answer in a structured manner and replies to the user
 
 
-![Watch the Demo](https://youtu.be/dTKOMaVdD5A)
-
-[![Watch the Demo](https://youtu.be/dTKOMaVdD5A)
+[![Watch the Demo](mq2.jpg)](https://youtu.be/dTKOMaVdD5A)
 
